@@ -1,0 +1,33 @@
+{
+
+  "WELCOME": "Welcome",
+  "PROFILE": "Profile",
+  "EXPERIENCE": "Experience",
+  "SKILLS": "Skills",
+  "PROJECTS": "Projects",
+  "EDUCATION": "Education",
+  "SOCIAL":"Social",
+  "BUTTON_LANG_EN": "en",
+  "BUTTON_LANG_EUS": "eu",
+  "BUTTON_LANG_ES": "es",
+
+  "Software Garatzailea": "Software Developer",
+    "Proiektu Kudeatzailea": "Project Manager",
+
+  "views.main.Splendid!": "Splendid!",
+  "directives.language-select.Language": "Language",
+
+  "freelance.descripcion.1": "Software Development",
+  "freelance.descripcion.2": "Cutting edge software development and implementation",
+
+  "vicomtech.descripcion.1":"Sofware Developer in rich and cutting edge interactive apps",
+  "vicomtech.descripcion.2": "Development of mobile and tablet applications",
+
+  "tknika.descripcion.1": "Project Manager of IT interactive software",
+  "tknika.descripcion.2": "IT Development and Management of Softwared focused on Education",
+
+  "ceit.descripcion.1": "Software Developer in the European IT project VIRTOOL",
+  "ceit.descripcion.2": "VIRTOOL (Virtual Manipulation to Simulate Machine Tool Processes (CRAFT-1999-70292)"
+
+
+}

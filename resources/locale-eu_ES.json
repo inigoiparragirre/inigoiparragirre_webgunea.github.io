@@ -1,0 +1,34 @@
+{
+
+  "WELCOME": "Ongietorri",
+  "PROFILE": "Perfila",
+  "EXPERIENCE": "Experientzia",
+  "SKILLS": "Gaitasunak",
+  "PROJECTS": "Proiektuak",
+  "EDUCATION": "Hezkuntza",
+  "SOCIAL": "Sare sozialak",
+
+  "BUTTON_LANG_EN": "en",
+  "BUTTON_LANG_EUS": "eu",
+  "BUTTON_LANG_ES": "es",
+
+  "Software Garatzailea": "Software Garatzailea",
+    "Proiektu Kudeatzailea": "Proiektu Kudeatzailea",
+
+
+  "views.main.Splendid!": "Splendid!",
+  "directives.language-select.Language": "Language",
+
+
+  "freelance.descripcion.1": "Goimailako software garapena",
+  "freelance.descripcion.2": "Teknologia berrien jarraipena, garapena eta implementazioa",
+
+  "vicomtech.descripcion.1":"Aplikazio interaktiboetan software garatzailea",
+  "vicomtech.descripcion.2": "Mobil eta tablet aplikazioen garapena",
+
+  "tknika.descripcion.1": "TIC arloko 3D aplikazio interaktiboen proiektu kudeatzailea",
+  "tknika.descripcion.2": "Hezkuntzara zuzenduriko TIC 3D software proiektuen kudeaketa eta garapena",
+
+  "ceit.descripcion.1": "VIRTOOL proiektu europearrean software garatzaile bezala",
+  "ceit.descripcion.2": "VIRTOOL (Virtual Manipulation to Simulate Machine Tool Processes (CRAFT-1999-70292)"
+}
